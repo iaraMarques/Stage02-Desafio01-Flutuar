@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Desafio 02 é uma criação de uma Landing-Page básica para fotalecer nosso conhecimento sobre alguns conceitos aprendidos em aula na Rocketseat, entre eles:
+O Desafio 01 é uma criação de uma Landing-Page básica para fotalecer nosso conhecimento sobre alguns conceitos aprendidos em aula na Rocketseat, entre eles:
 
 <ul>
   <li>Estruturando um projeto HTML</li>
